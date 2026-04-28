@@ -2,6 +2,7 @@
 .env
 .env.local
 firebase-service-account.json
+backend/firebase-service-account.json
 *.key
 *.pem
 
